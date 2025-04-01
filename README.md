@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Electrical & Electronic Engineering!
+- 🌱 I’m currently studying Electrical & Electronic Engineering!
 - 👯 I’m looking to collaborate on a helping to develop workbench with Caligra!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like anything tech related!
