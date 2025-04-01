@@ -1,8 +1,12 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Electrical & Electronic Engineering!
+- 👯 I’m looking to collaborate on a helping to develop workbench with Caligra!
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like anything tech related!
+
 <!--
 **MuhammadA92/MuhammadA92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
